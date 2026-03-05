@@ -1,6 +1,6 @@
 $(document).ready(function(){
 
-let items = ["Apple","Banana","Mango","Orange","Grapes","Pineapple","Watermelon"];
+let items = ["Apple","Banana","Mango","Orange","Grapes","Pineapple","Watermelon","Shin ur Ramen","Chicken leg piece","IPHONE"];
 
 $("#search").keyup(function(){
 
